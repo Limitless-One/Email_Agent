@@ -1,0 +1,10 @@
+.env
+*.token.json
+Gmail API.ipynb
+*credentials*.json
+agent_state.db
+agent_state.db-*
+debug/
+rag/
+__pycache__/
+.pytest_cache/

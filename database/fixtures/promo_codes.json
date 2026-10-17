@@ -1,0 +1,38 @@
+[
+  {
+    "code": "WELCOME10",
+    "discount_type": "percentage",
+    "discount_value": 10.0,
+    "min_order_value": 30.0,
+    "is_active": 1,
+    "expires_at": "2027-12-31",
+    "description": "10% off for first-time customers on orders $30+"
+  },
+  {
+    "code": "NOVASAVE15",
+    "discount_type": "percentage",
+    "discount_value": 15.0,
+    "min_order_value": 50.0,
+    "is_active": 1,
+    "expires_at": "2026-12-31",
+    "description": "15% off orders over $50"
+  },
+  {
+    "code": "FREECABLE",
+    "discount_type": "fixed_amount",
+    "discount_value": 19.99,
+    "min_order_value": 100.0,
+    "is_active": 1,
+    "expires_at": "2026-11-30",
+    "description": "$19.99 discount on orders over $100"
+  },
+  {
+    "code": "VIPCLUB20",
+    "discount_type": "percentage",
+    "discount_value": 20.0,
+    "min_order_value": 40.0,
+    "is_active": 1,
+    "expires_at": "2027-06-30",
+    "description": "Exclusive 20% discount for registered VIP members"
+  }
+]

@@ -1,0 +1,5 @@
+# Runtime dependencies for live Gmail OAuth. The core contracts and state ledger use the standard library.
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+certifi

@@ -1,0 +1,128 @@
+[
+  {
+    "item_id": 1,
+    "order_id": "NG-104835",
+    "sku": "NG-ASU-SLV",
+    "product_name": "ApexStand Ultra Ergonomic Aluminum Laptop Stand",
+    "quantity": 1,
+    "unit_price": 49.99,
+    "total_price": 49.99
+  },
+  {
+    "item_id": 2,
+    "order_id": "NG-104834",
+    "sku": "NG-VBP-BLK",
+    "product_name": "VoltBoost Pro 20,000mAh 65W Fast Charge Power Bank",
+    "quantity": 1,
+    "unit_price": 69.99,
+    "total_price": 69.99
+  },
+  {
+    "item_id": 3,
+    "order_id": "NG-104834",
+    "sku": "NG-NC100-2M",
+    "product_name": "NexusCord Braided 100W USB-C to USB-C Cable (2m / 6.6ft)",
+    "quantity": 1,
+    "unit_price": 19.99,
+    "total_price": 19.99
+  },
+  {
+    "item_id": 4,
+    "order_id": "NG-104833",
+    "sku": "NG-VBP-BLK",
+    "product_name": "VoltBoost Pro 20,000mAh 65W Fast Charge Power Bank",
+    "quantity": 1,
+    "unit_price": 69.99,
+    "total_price": 69.99
+  },
+  {
+    "item_id": 5,
+    "order_id": "NG-104832",
+    "sku": "NG-ASU-GRY",
+    "product_name": "ApexStand Ultra Ergonomic Aluminum Laptop Stand",
+    "quantity": 1,
+    "unit_price": 49.99,
+    "total_price": 49.99
+  },
+  {
+    "item_id": 6,
+    "order_id": "NG-104831",
+    "sku": "NG-ASU-GRY",
+    "product_name": "ApexStand Ultra Ergonomic Aluminum Laptop Stand",
+    "quantity": 1,
+    "unit_price": 49.99,
+    "total_price": 49.99
+  },
+  {
+    "item_id": 7,
+    "order_id": "NG-104831",
+    "sku": "NG-VBP-WHT",
+    "product_name": "VoltBoost Pro 20,000mAh 65W Fast Charge Power Bank",
+    "quantity": 1,
+    "unit_price": 69.99,
+    "total_price": 69.99
+  },
+  {
+    "item_id": 8,
+    "order_id": "NG-104831",
+    "sku": "NG-NC100-2M",
+    "product_name": "NexusCord Braided 100W USB-C to USB-C Cable (2m / 6.6ft)",
+    "quantity": 1,
+    "unit_price": 19.99,
+    "total_price": 19.99
+  },
+  {
+    "item_id": 9,
+    "order_id": "NG-104830",
+    "sku": "NG-NC100-2M",
+    "product_name": "NexusCord Braided 100W USB-C to USB-C Cable (2m / 6.6ft)",
+    "quantity": 1,
+    "unit_price": 19.99,
+    "total_price": 19.99
+  },
+  {
+    "item_id": 10,
+    "order_id": "NG-104829",
+    "sku": "NG-VBP-BLK",
+    "product_name": "VoltBoost Pro 20,000mAh 65W Fast Charge Power Bank",
+    "quantity": 1,
+    "unit_price": 69.99,
+    "total_price": 69.99
+  },
+  {
+    "item_id": 11,
+    "order_id": "NG-104810",
+    "sku": "NG-ASU-SLV",
+    "product_name": "ApexStand Ultra Ergonomic Aluminum Laptop Stand",
+    "quantity": 1,
+    "unit_price": 49.99,
+    "total_price": 49.99
+  },
+  {
+    "item_id": 12,
+    "order_id": "NG-104810",
+    "sku": "NG-VBP-BLK",
+    "product_name": "VoltBoost Pro 20,000mAh 65W Fast Charge Power Bank",
+    "quantity": 1,
+    "unit_price": 69.99,
+    "total_price": 69.99
+  },
+  {
+    "item_id": 13,
+    "order_id": "NG-103550",
+    "sku": "NG-VBP-BLK",
+    "product_name": "VoltBoost Pro 20,000mAh 65W Fast Charge Power Bank",
+    "quantity": 1,
+    "unit_price": 69.99,
+    "total_price": 69.99
+  },
+  {
+    "item_id": 14,
+    "order_id": "NG-101200",
+    "sku": "NG-ASU-SLV",
+    "product_name": "ApexStand Ultra Ergonomic Aluminum Laptop Stand",
+    "quantity": 1,
+    "unit_price": 49.99,
+    "total_price": 49.99
+  }
+]

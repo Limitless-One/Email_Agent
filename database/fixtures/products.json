@@ -1,0 +1,72 @@
+[
+  {
+    "sku": "NG-ASU-SLV",
+    "product_id": "apexstand-ultra",
+    "name": "ApexStand Ultra Ergonomic Aluminum Laptop Stand",
+    "variant": "Silver Edition",
+    "color": "Silver",
+    "category": "Ergonomic Accessories",
+    "price": 49.99,
+    "stock_quantity": 142,
+    "standard_warranty_months": 12,
+    "extended_warranty_months": 18,
+    "description": "Dual-axis heavy-duty aluminum laptop stand supporting 10-17.3 inch laptops up to 13.2 lbs (6 kg).",
+    "created_at": "2026-10-16 11:23:36"
+  },
+  {
+    "sku": "NG-ASU-GRY",
+    "product_id": "apexstand-ultra",
+    "name": "ApexStand Ultra Ergonomic Aluminum Laptop Stand",
+    "variant": "Space Gray Edition",
+    "color": "Space Gray",
+    "category": "Ergonomic Accessories",
+    "price": 49.99,
+    "stock_quantity": 88,
+    "standard_warranty_months": 12,
+    "extended_warranty_months": 18,
+    "description": "Dual-axis heavy-duty aluminum laptop stand supporting 10-17.3 inch laptops up to 13.2 lbs (6 kg).",
+    "created_at": "2026-10-16 11:23:36"
+  },
+  {
+    "sku": "NG-VBP-BLK",
+    "product_id": "voltboost-pro-20k",
+    "name": "VoltBoost Pro 20,000mAh 65W Fast Charge Power Bank",
+    "variant": "Midnight Black",
+    "color": "Black",
+    "category": "Portable Power & Batteries",
+    "price": 69.99,
+    "stock_quantity": 95,
+    "standard_warranty_months": 12,
+    "extended_warranty_months": 18,
+    "description": "20,000mAh / 74Wh power bank with 65W USB-C PD output, digital wattage OLED display, and pass-through.",
+    "created_at": "2026-10-16 11:23:36"
+  },
+  {
+    "sku": "NG-VBP-WHT",
+    "product_id": "voltboost-pro-20k",
+    "name": "VoltBoost Pro 20,000mAh 65W Fast Charge Power Bank",
+    "variant": "Glacier White",
+    "color": "White",
+    "category": "Portable Power & Batteries",
+    "price": 69.99,
+    "stock_quantity": 34,
+    "standard_warranty_months": 12,
+    "extended_warranty_months": 18,
+    "description": "20,000mAh / 74Wh power bank with 65W USB-C PD output, digital wattage OLED display, and pass-through.",
+    "created_at": "2026-10-16 11:23:36"
+  },
+  {
+    "sku": "NG-NC100-2M",
+    "product_id": "nexuscord-c-to-c",
+    "name": "NexusCord Braided 100W USB-C to USB-C Cable (2m / 6.6ft)",
+    "variant": "Matte Black 2m",
+    "color": "Black",
+    "category": "Cables & Connectivity",
+    "price": 19.99,
+    "stock_quantity": 310,
+    "standard_warranty_months": 12,
+    "extended_warranty_months": 18,
+    "description": "2-meter double-braided nylon 100W (20V/5A) USB-C to USB-C cable with E-Marker smart chip.",
+    "created_at": "2026-10-16 11:23:36"
+  }
+]

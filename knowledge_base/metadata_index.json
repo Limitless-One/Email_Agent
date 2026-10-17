@@ -1,0 +1,95 @@
+{
+  "store_info": {
+    "brand_name": "NovaGear Direct",
+    "website": "https://www.novagear.com",
+    "support_portal": "https://support.novagear.com",
+    "primary_support_email": "support@novagear.com",
+    "escalations_email": "escalations@novagear.com",
+    "phone_support": "+1 (800) 555-0199",
+    "hours_of_operation": "Monday - Friday, 9:00 AM - 6:00 PM EST"
+  },
+  "catalog": [
+    {
+      "product_id": "apexstand-ultra",
+      "name": "ApexStand Ultra Ergonomic Aluminum Laptop Stand",
+      "skus": ["NG-ASU-SLV", "NG-ASU-GRY"],
+      "category": "Ergonomic Accessories",
+      "price_usd": 49.99,
+      "warranty_months": 12,
+      "files": [
+        "products/apexstand-ultra/specifications.md",
+        "products/apexstand-ultra/user_manual.md",
+        "products/apexstand-ultra/troubleshooting.md",
+        "products/apexstand-ultra/faq.md"
+      ]
+    },
+    {
+      "product_id": "voltboost-pro-20k",
+      "name": "VoltBoost Pro 20,000mAh 65W Fast Charge Power Bank",
+      "skus": ["NG-VBP-BLK", "NG-VBP-WHT"],
+      "category": "Portable Power & Batteries",
+      "price_usd": 69.99,
+      "warranty_months": 12,
+      "files": [
+        "products/voltboost-pro-20k/specifications.md",
+        "products/voltboost-pro-20k/user_manual.md",
+        "products/voltboost-pro-20k/troubleshooting.md",
+        "products/voltboost-pro-20k/faq.md"
+      ]
+    },
+    {
+      "product_id": "nexuscord-c-to-c",
+      "name": "NexusCord Braided 100W USB-C to USB-C Cable (2m / 6.6ft)",
+      "skus": ["NG-NC100-2M"],
+      "category": "Cables & Connectivity",
+      "price_usd": 19.99,
+      "warranty_months": 12,
+      "files": [
+        "products/nexuscord-c-to-c/specifications.md",
+        "products/nexuscord-c-to-c/user_manual.md",
+        "products/nexuscord-c-to-c/troubleshooting.md",
+        "products/nexuscord-c-to-c/faq.md"
+      ]
+    }
+  ],
+  "policies": [
+    {
+      "policy_id": "return_refund",
+      "title": "Return and Refund Policy",
+      "file": "policies/return_and_refund_policy.md",
+      "topics": ["returns", "refunds", "restocking fees", "damaged on arrival", "30 day return window"]
+    },
+    {
+      "policy_id": "warranty",
+      "title": "Warranty Policy & RMA Procedures",
+      "file": "policies/warranty_policy.md",
+      "topics": ["1-year warranty", "extended warranty", "RMA replacement", "hardware failure", "battery degradation"]
+    },
+    {
+      "policy_id": "shipping",
+      "title": "Shipping, Tracking and Delivery Policy",
+      "file": "policies/shipping_and_delivery_policy.md",
+      "topics": ["shipping times", "expedited shipping", "lost package", "stolen package", "international delivery"]
+    },
+    {
+      "policy_id": "order_modifications",
+      "title": "Order Cancellation and Modification Policy",
+      "file": "policies/order_cancellation_and_modification.md",
+      "topics": ["cancel order", "change address", "change color", "30-minute window"]
+    }
+  ],
+  "support_and_company": [
+    {
+      "doc_id": "human_escalation",
+      "title": "Human Escalation, Contact Directory & Agent Handoff Protocol",
+      "file": "company_and_support/human_escalation_and_contact.md",
+      "topics": ["human agent handoff", "safety escalation", "customer complaints", "phone number", "business hours"]
+    },
+    {
+      "doc_id": "general_faq",
+      "title": "General Store FAQs",
+      "file": "company_and_support/general_faq.md",
+      "topics": ["payment methods", "tax", "bulk orders", "invoices", "security"]
+    }
+  ]
+}
